@@ -1,6 +1,6 @@
 # Mathematics for Computing Practical Programs:-
 
-## Program 1: Create and transform vectors and matrices (the transpose vector (matrix) conjugate transpose of a vector (matrix))
+## Practice: Create and transform vectors and matrices (the transpose vector (matrix) conjugate transpose of a vector (matrix))
 
 ## Code:
 
