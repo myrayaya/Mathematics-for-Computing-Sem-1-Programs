@@ -1,5 +1,6 @@
 ## Practical - 1: Find the cofactor, determinant, adjoint and inverse of the matrix
 
+### Input / Code
 ```
 import numpy as np
 
